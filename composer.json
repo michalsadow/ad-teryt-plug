@@ -1,0 +1,26 @@
+{
+    "name": "przeslijmi/ad-teryt-plug",
+    "version": "v1.0.5",
+    "type": "library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/przeslijmi/silogger"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/przeslijmi/sexceptions"
+        }
+    ],
+    "require": {
+        "przeslijmi/silogger": ">=1.3",
+        "przeslijmi/sexceptions": ">=1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Przeslijmi\\Silogger\\": "vendor/przeslijmi/silogger/src/",
+            "Przeslijmi\\Sexceptions\\": "vendor/przeslijmi/sexceptions/src/",
+            "Przeslijmi\\AgileDataTerytPlug\\": "src/"
+        }
+    }
+}

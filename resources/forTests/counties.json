@@ -1,0 +1,4562 @@
+{
+    "0201": {
+        "teryt": "0201",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bolesławiecki",
+        "nameUc": "BOLESŁAWIECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0202": {
+        "teryt": "0202",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "dzierżoniowski",
+        "nameUc": "DZIERŻONIOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0203": {
+        "teryt": "0203",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "głogowski",
+        "nameUc": "GŁOGOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0204": {
+        "teryt": "0204",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "górowski",
+        "nameUc": "GÓROWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0205": {
+        "teryt": "0205",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "jaworski",
+        "nameUc": "JAWORSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0206": {
+        "teryt": "0206",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "karkonoski",
+        "nameUc": "KARKONOSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0207": {
+        "teryt": "0207",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kamiennogórski",
+        "nameUc": "KAMIENNOGÓRSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0208": {
+        "teryt": "0208",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kłodzki",
+        "nameUc": "KŁODZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0209": {
+        "teryt": "0209",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "legnicki",
+        "nameUc": "LEGNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0210": {
+        "teryt": "0210",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lubański",
+        "nameUc": "LUBAŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0211": {
+        "teryt": "0211",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lubiński",
+        "nameUc": "LUBIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0212": {
+        "teryt": "0212",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lwówecki",
+        "nameUc": "LWÓWECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0213": {
+        "teryt": "0213",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "milicki",
+        "nameUc": "MILICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0214": {
+        "teryt": "0214",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "oleśnicki",
+        "nameUc": "OLEŚNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0215": {
+        "teryt": "0215",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "oławski",
+        "nameUc": "OŁAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0216": {
+        "teryt": "0216",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "polkowicki",
+        "nameUc": "POLKOWICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0217": {
+        "teryt": "0217",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "strzeliński",
+        "nameUc": "STRZELIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0218": {
+        "teryt": "0218",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "średzki",
+        "nameUc": "ŚREDZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0219": {
+        "teryt": "0219",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "świdnicki",
+        "nameUc": "ŚWIDNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0220": {
+        "teryt": "0220",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "trzebnicki",
+        "nameUc": "TRZEBNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0221": {
+        "teryt": "0221",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wałbrzyski",
+        "nameUc": "WAŁBRZYSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0222": {
+        "teryt": "0222",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wołowski",
+        "nameUc": "WOŁOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0223": {
+        "teryt": "0223",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wrocławski",
+        "nameUc": "WROCŁAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0224": {
+        "teryt": "0224",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "ząbkowicki",
+        "nameUc": "ZĄBKOWICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0225": {
+        "teryt": "0225",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "zgorzelecki",
+        "nameUc": "ZGORZELECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0226": {
+        "teryt": "0226",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "złotoryjski",
+        "nameUc": "ZŁOTORYJSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0261": {
+        "teryt": "0261",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Jelenia Góra",
+        "nameUc": "JELENIA GÓRA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0262": {
+        "teryt": "0262",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Legnica",
+        "nameUc": "LEGNICA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0264": {
+        "teryt": "0264",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Wrocław",
+        "nameUc": "WROCŁAW",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0265": {
+        "teryt": "0265",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Wałbrzych",
+        "nameUc": "WAŁBRZYCH",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "02",
+            "name": "dolnośląskie"
+        }
+    },
+    "0401": {
+        "teryt": "0401",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "aleksandrowski",
+        "nameUc": "ALEKSANDROWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0402": {
+        "teryt": "0402",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "brodnicki",
+        "nameUc": "BRODNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0403": {
+        "teryt": "0403",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bydgoski",
+        "nameUc": "BYDGOSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0404": {
+        "teryt": "0404",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "chełmiński",
+        "nameUc": "CHEŁMIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0405": {
+        "teryt": "0405",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "golubsko-dobrzyński",
+        "nameUc": "GOLUBSKO-DOBRZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0406": {
+        "teryt": "0406",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "grudziądzki",
+        "nameUc": "GRUDZIĄDZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0407": {
+        "teryt": "0407",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "inowrocławski",
+        "nameUc": "INOWROCŁAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0408": {
+        "teryt": "0408",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lipnowski",
+        "nameUc": "LIPNOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0409": {
+        "teryt": "0409",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "mogileński",
+        "nameUc": "MOGILEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0410": {
+        "teryt": "0410",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "nakielski",
+        "nameUc": "NAKIELSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0411": {
+        "teryt": "0411",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "radziejowski",
+        "nameUc": "RADZIEJOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0412": {
+        "teryt": "0412",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "rypiński",
+        "nameUc": "RYPIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0413": {
+        "teryt": "0413",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sępoleński",
+        "nameUc": "SĘPOLEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0414": {
+        "teryt": "0414",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "świecki",
+        "nameUc": "ŚWIECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0415": {
+        "teryt": "0415",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "toruński",
+        "nameUc": "TORUŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0416": {
+        "teryt": "0416",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "tucholski",
+        "nameUc": "TUCHOLSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0417": {
+        "teryt": "0417",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wąbrzeski",
+        "nameUc": "WĄBRZESKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0418": {
+        "teryt": "0418",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "włocławski",
+        "nameUc": "WŁOCŁAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0419": {
+        "teryt": "0419",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "żniński",
+        "nameUc": "ŻNIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0461": {
+        "teryt": "0461",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Bydgoszcz",
+        "nameUc": "BYDGOSZCZ",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0462": {
+        "teryt": "0462",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Grudziądz",
+        "nameUc": "GRUDZIĄDZ",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0463": {
+        "teryt": "0463",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Toruń",
+        "nameUc": "TORUŃ",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0464": {
+        "teryt": "0464",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Włocławek",
+        "nameUc": "WŁOCŁAWEK",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "04",
+            "name": "kujawsko-pomorskie"
+        }
+    },
+    "0601": {
+        "teryt": "0601",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bialski",
+        "nameUc": "BIALSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0602": {
+        "teryt": "0602",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "biłgorajski",
+        "nameUc": "BIŁGORAJSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0603": {
+        "teryt": "0603",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "chełmski",
+        "nameUc": "CHEŁMSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0604": {
+        "teryt": "0604",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "hrubieszowski",
+        "nameUc": "HRUBIESZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0605": {
+        "teryt": "0605",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "janowski",
+        "nameUc": "JANOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0606": {
+        "teryt": "0606",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "krasnostawski",
+        "nameUc": "KRASNOSTAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0607": {
+        "teryt": "0607",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kraśnicki",
+        "nameUc": "KRAŚNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0608": {
+        "teryt": "0608",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lubartowski",
+        "nameUc": "LUBARTOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0609": {
+        "teryt": "0609",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lubelski",
+        "nameUc": "LUBELSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0610": {
+        "teryt": "0610",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "łęczyński",
+        "nameUc": "ŁĘCZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0611": {
+        "teryt": "0611",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "łukowski",
+        "nameUc": "ŁUKOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0612": {
+        "teryt": "0612",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "opolski",
+        "nameUc": "OPOLSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0613": {
+        "teryt": "0613",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "parczewski",
+        "nameUc": "PARCZEWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0614": {
+        "teryt": "0614",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "puławski",
+        "nameUc": "PUŁAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0615": {
+        "teryt": "0615",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "radzyński",
+        "nameUc": "RADZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0616": {
+        "teryt": "0616",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "rycki",
+        "nameUc": "RYCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0617": {
+        "teryt": "0617",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "świdnicki",
+        "nameUc": "ŚWIDNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0618": {
+        "teryt": "0618",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "tomaszowski",
+        "nameUc": "TOMASZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0619": {
+        "teryt": "0619",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "włodawski",
+        "nameUc": "WŁODAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0620": {
+        "teryt": "0620",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "zamojski",
+        "nameUc": "ZAMOJSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0661": {
+        "teryt": "0661",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Biała Podlaska",
+        "nameUc": "BIAŁA PODLASKA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0662": {
+        "teryt": "0662",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Chełm",
+        "nameUc": "CHEŁM",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0663": {
+        "teryt": "0663",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Lublin",
+        "nameUc": "LUBLIN",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0664": {
+        "teryt": "0664",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Zamość",
+        "nameUc": "ZAMOŚĆ",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "06",
+            "name": "lubelskie"
+        }
+    },
+    "0801": {
+        "teryt": "0801",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "gorzowski",
+        "nameUc": "GORZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0802": {
+        "teryt": "0802",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "krośnieński",
+        "nameUc": "KROŚNIEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0803": {
+        "teryt": "0803",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "międzyrzecki",
+        "nameUc": "MIĘDZYRZECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0804": {
+        "teryt": "0804",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "nowosolski",
+        "nameUc": "NOWOSOLSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0805": {
+        "teryt": "0805",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "słubicki",
+        "nameUc": "SŁUBICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0806": {
+        "teryt": "0806",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "strzelecko-drezdenecki",
+        "nameUc": "STRZELECKO-DREZDENECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0807": {
+        "teryt": "0807",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sulęciński",
+        "nameUc": "SULĘCIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0808": {
+        "teryt": "0808",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "świebodziński",
+        "nameUc": "ŚWIEBODZIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0809": {
+        "teryt": "0809",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "zielonogórski",
+        "nameUc": "ZIELONOGÓRSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0810": {
+        "teryt": "0810",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "żagański",
+        "nameUc": "ŻAGAŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0811": {
+        "teryt": "0811",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "żarski",
+        "nameUc": "ŻARSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0812": {
+        "teryt": "0812",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wschowski",
+        "nameUc": "WSCHOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0861": {
+        "teryt": "0861",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Gorzów Wielkopolski",
+        "nameUc": "GORZÓW WIELKOPOLSKI",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "0862": {
+        "teryt": "0862",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Zielona Góra",
+        "nameUc": "ZIELONA GÓRA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "08",
+            "name": "lubuskie"
+        }
+    },
+    "1001": {
+        "teryt": "1001",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bełchatowski",
+        "nameUc": "BEŁCHATOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1002": {
+        "teryt": "1002",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kutnowski",
+        "nameUc": "KUTNOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1003": {
+        "teryt": "1003",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "łaski",
+        "nameUc": "ŁASKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1004": {
+        "teryt": "1004",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "łęczycki",
+        "nameUc": "ŁĘCZYCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1005": {
+        "teryt": "1005",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "łowicki",
+        "nameUc": "ŁOWICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1006": {
+        "teryt": "1006",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "łódzki wschodni",
+        "nameUc": "ŁÓDZKI WSCHODNI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1007": {
+        "teryt": "1007",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "opoczyński",
+        "nameUc": "OPOCZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1008": {
+        "teryt": "1008",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "pabianicki",
+        "nameUc": "PABIANICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1009": {
+        "teryt": "1009",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "pajęczański",
+        "nameUc": "PAJĘCZAŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1010": {
+        "teryt": "1010",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "piotrkowski",
+        "nameUc": "PIOTRKOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1011": {
+        "teryt": "1011",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "poddębicki",
+        "nameUc": "PODDĘBICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1012": {
+        "teryt": "1012",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "radomszczański",
+        "nameUc": "RADOMSZCZAŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1013": {
+        "teryt": "1013",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "rawski",
+        "nameUc": "RAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1014": {
+        "teryt": "1014",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sieradzki",
+        "nameUc": "SIERADZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1015": {
+        "teryt": "1015",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "skierniewicki",
+        "nameUc": "SKIERNIEWICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1016": {
+        "teryt": "1016",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "tomaszowski",
+        "nameUc": "TOMASZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1017": {
+        "teryt": "1017",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wieluński",
+        "nameUc": "WIELUŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1018": {
+        "teryt": "1018",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wieruszowski",
+        "nameUc": "WIERUSZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1019": {
+        "teryt": "1019",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "zduńskowolski",
+        "nameUc": "ZDUŃSKOWOLSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1020": {
+        "teryt": "1020",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "zgierski",
+        "nameUc": "ZGIERSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1021": {
+        "teryt": "1021",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "brzeziński",
+        "nameUc": "BRZEZIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1061": {
+        "teryt": "1061",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Łódź",
+        "nameUc": "ŁÓDŹ",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1062": {
+        "teryt": "1062",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Piotrków Trybunalski",
+        "nameUc": "PIOTRKÓW TRYBUNALSKI",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1063": {
+        "teryt": "1063",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Skierniewice",
+        "nameUc": "SKIERNIEWICE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "10",
+            "name": "łódzkie"
+        }
+    },
+    "1201": {
+        "teryt": "1201",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bocheński",
+        "nameUc": "BOCHEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1202": {
+        "teryt": "1202",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "brzeski",
+        "nameUc": "BRZESKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1203": {
+        "teryt": "1203",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "chrzanowski",
+        "nameUc": "CHRZANOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1204": {
+        "teryt": "1204",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "dąbrowski",
+        "nameUc": "DĄBROWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1205": {
+        "teryt": "1205",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "gorlicki",
+        "nameUc": "GORLICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1206": {
+        "teryt": "1206",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "krakowski",
+        "nameUc": "KRAKOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1207": {
+        "teryt": "1207",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "limanowski",
+        "nameUc": "LIMANOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1208": {
+        "teryt": "1208",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "miechowski",
+        "nameUc": "MIECHOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1209": {
+        "teryt": "1209",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "myślenicki",
+        "nameUc": "MYŚLENICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1210": {
+        "teryt": "1210",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "nowosądecki",
+        "nameUc": "NOWOSĄDECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1211": {
+        "teryt": "1211",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "nowotarski",
+        "nameUc": "NOWOTARSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1212": {
+        "teryt": "1212",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "olkuski",
+        "nameUc": "OLKUSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1213": {
+        "teryt": "1213",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "oświęcimski",
+        "nameUc": "OŚWIĘCIMSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1214": {
+        "teryt": "1214",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "proszowicki",
+        "nameUc": "PROSZOWICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1215": {
+        "teryt": "1215",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "suski",
+        "nameUc": "SUSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1216": {
+        "teryt": "1216",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "tarnowski",
+        "nameUc": "TARNOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1217": {
+        "teryt": "1217",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "tatrzański",
+        "nameUc": "TATRZAŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1218": {
+        "teryt": "1218",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wadowicki",
+        "nameUc": "WADOWICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1219": {
+        "teryt": "1219",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wielicki",
+        "nameUc": "WIELICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1261": {
+        "teryt": "1261",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Kraków",
+        "nameUc": "KRAKÓW",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1262": {
+        "teryt": "1262",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Nowy Sącz",
+        "nameUc": "NOWY SĄCZ",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1263": {
+        "teryt": "1263",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Tarnów",
+        "nameUc": "TARNÓW",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "12",
+            "name": "małopolskie"
+        }
+    },
+    "1401": {
+        "teryt": "1401",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "białobrzeski",
+        "nameUc": "BIAŁOBRZESKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1402": {
+        "teryt": "1402",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "ciechanowski",
+        "nameUc": "CIECHANOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1403": {
+        "teryt": "1403",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "garwoliński",
+        "nameUc": "GARWOLIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1404": {
+        "teryt": "1404",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "gostyniński",
+        "nameUc": "GOSTYNIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1405": {
+        "teryt": "1405",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "grodziski",
+        "nameUc": "GRODZISKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1406": {
+        "teryt": "1406",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "grójecki",
+        "nameUc": "GRÓJECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1407": {
+        "teryt": "1407",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kozienicki",
+        "nameUc": "KOZIENICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1408": {
+        "teryt": "1408",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "legionowski",
+        "nameUc": "LEGIONOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1409": {
+        "teryt": "1409",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lipski",
+        "nameUc": "LIPSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1410": {
+        "teryt": "1410",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "łosicki",
+        "nameUc": "ŁOSICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1411": {
+        "teryt": "1411",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "makowski",
+        "nameUc": "MAKOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1412": {
+        "teryt": "1412",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "miński",
+        "nameUc": "MIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1413": {
+        "teryt": "1413",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "mławski",
+        "nameUc": "MŁAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1414": {
+        "teryt": "1414",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "nowodworski",
+        "nameUc": "NOWODWORSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1415": {
+        "teryt": "1415",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "ostrołęcki",
+        "nameUc": "OSTROŁĘCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1416": {
+        "teryt": "1416",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "ostrowski",
+        "nameUc": "OSTROWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1417": {
+        "teryt": "1417",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "otwocki",
+        "nameUc": "OTWOCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1418": {
+        "teryt": "1418",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "piaseczyński",
+        "nameUc": "PIASECZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1419": {
+        "teryt": "1419",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "płocki",
+        "nameUc": "PŁOCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1420": {
+        "teryt": "1420",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "płoński",
+        "nameUc": "PŁOŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1421": {
+        "teryt": "1421",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "pruszkowski",
+        "nameUc": "PRUSZKOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1422": {
+        "teryt": "1422",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "przasnyski",
+        "nameUc": "PRZASNYSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1423": {
+        "teryt": "1423",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "przysuski",
+        "nameUc": "PRZYSUSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1424": {
+        "teryt": "1424",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "pułtuski",
+        "nameUc": "PUŁTUSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1425": {
+        "teryt": "1425",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "radomski",
+        "nameUc": "RADOMSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1426": {
+        "teryt": "1426",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "siedlecki",
+        "nameUc": "SIEDLECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1427": {
+        "teryt": "1427",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sierpecki",
+        "nameUc": "SIERPECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1428": {
+        "teryt": "1428",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sochaczewski",
+        "nameUc": "SOCHACZEWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1429": {
+        "teryt": "1429",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sokołowski",
+        "nameUc": "SOKOŁOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1430": {
+        "teryt": "1430",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "szydłowiecki",
+        "nameUc": "SZYDŁOWIECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1432": {
+        "teryt": "1432",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "warszawski zachodni",
+        "nameUc": "WARSZAWSKI ZACHODNI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1433": {
+        "teryt": "1433",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "węgrowski",
+        "nameUc": "WĘGROWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1434": {
+        "teryt": "1434",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wołomiński",
+        "nameUc": "WOŁOMIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1435": {
+        "teryt": "1435",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wyszkowski",
+        "nameUc": "WYSZKOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1436": {
+        "teryt": "1436",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "zwoleński",
+        "nameUc": "ZWOLEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1437": {
+        "teryt": "1437",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "żuromiński",
+        "nameUc": "ŻUROMIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1438": {
+        "teryt": "1438",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "żyrardowski",
+        "nameUc": "ŻYRARDOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1461": {
+        "teryt": "1461",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Ostrołęka",
+        "nameUc": "OSTROŁĘKA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1462": {
+        "teryt": "1462",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Płock",
+        "nameUc": "PŁOCK",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1463": {
+        "teryt": "1463",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Radom",
+        "nameUc": "RADOM",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1464": {
+        "teryt": "1464",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Siedlce",
+        "nameUc": "SIEDLCE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1465": {
+        "teryt": "1465",
+        "type": "city",
+        "typeOriginal": "miasto stołeczne, na prawach powiatu",
+        "name": "Warszawa",
+        "nameUc": "WARSZAWA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "14",
+            "name": "mazowieckie"
+        }
+    },
+    "1601": {
+        "teryt": "1601",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "brzeski",
+        "nameUc": "BRZESKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1602": {
+        "teryt": "1602",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "głubczycki",
+        "nameUc": "GŁUBCZYCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1603": {
+        "teryt": "1603",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kędzierzyńsko-kozielski",
+        "nameUc": "KĘDZIERZYŃSKO-KOZIELSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1604": {
+        "teryt": "1604",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kluczborski",
+        "nameUc": "KLUCZBORSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1605": {
+        "teryt": "1605",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "krapkowicki",
+        "nameUc": "KRAPKOWICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1606": {
+        "teryt": "1606",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "namysłowski",
+        "nameUc": "NAMYSŁOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1607": {
+        "teryt": "1607",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "nyski",
+        "nameUc": "NYSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1608": {
+        "teryt": "1608",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "oleski",
+        "nameUc": "OLESKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1609": {
+        "teryt": "1609",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "opolski",
+        "nameUc": "OPOLSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1610": {
+        "teryt": "1610",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "prudnicki",
+        "nameUc": "PRUDNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1611": {
+        "teryt": "1611",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "strzelecki",
+        "nameUc": "STRZELECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1661": {
+        "teryt": "1661",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Opole",
+        "nameUc": "OPOLE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "16",
+            "name": "opolskie"
+        }
+    },
+    "1801": {
+        "teryt": "1801",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bieszczadzki",
+        "nameUc": "BIESZCZADZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1802": {
+        "teryt": "1802",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "brzozowski",
+        "nameUc": "BRZOZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1803": {
+        "teryt": "1803",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "dębicki",
+        "nameUc": "DĘBICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1804": {
+        "teryt": "1804",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "jarosławski",
+        "nameUc": "JAROSŁAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1805": {
+        "teryt": "1805",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "jasielski",
+        "nameUc": "JASIELSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1806": {
+        "teryt": "1806",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kolbuszowski",
+        "nameUc": "KOLBUSZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1807": {
+        "teryt": "1807",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "krośnieński",
+        "nameUc": "KROŚNIEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1808": {
+        "teryt": "1808",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "leżajski",
+        "nameUc": "LEŻAJSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1809": {
+        "teryt": "1809",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lubaczowski",
+        "nameUc": "LUBACZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1810": {
+        "teryt": "1810",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "łańcucki",
+        "nameUc": "ŁAŃCUCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1811": {
+        "teryt": "1811",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "mielecki",
+        "nameUc": "MIELECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1812": {
+        "teryt": "1812",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "niżański",
+        "nameUc": "NIŻAŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1813": {
+        "teryt": "1813",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "przemyski",
+        "nameUc": "PRZEMYSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1814": {
+        "teryt": "1814",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "przeworski",
+        "nameUc": "PRZEWORSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1815": {
+        "teryt": "1815",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "ropczycko-sędziszowski",
+        "nameUc": "ROPCZYCKO-SĘDZISZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1816": {
+        "teryt": "1816",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "rzeszowski",
+        "nameUc": "RZESZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1817": {
+        "teryt": "1817",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sanocki",
+        "nameUc": "SANOCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1818": {
+        "teryt": "1818",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "stalowowolski",
+        "nameUc": "STALOWOWOLSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1819": {
+        "teryt": "1819",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "strzyżowski",
+        "nameUc": "STRZYŻOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1820": {
+        "teryt": "1820",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "tarnobrzeski",
+        "nameUc": "TARNOBRZESKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1821": {
+        "teryt": "1821",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "leski",
+        "nameUc": "LESKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1861": {
+        "teryt": "1861",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Krosno",
+        "nameUc": "KROSNO",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1862": {
+        "teryt": "1862",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Przemyśl",
+        "nameUc": "PRZEMYŚL",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1863": {
+        "teryt": "1863",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Rzeszów",
+        "nameUc": "RZESZÓW",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "1864": {
+        "teryt": "1864",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Tarnobrzeg",
+        "nameUc": "TARNOBRZEG",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "18",
+            "name": "podkarpackie"
+        }
+    },
+    "2001": {
+        "teryt": "2001",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "augustowski",
+        "nameUc": "AUGUSTOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2002": {
+        "teryt": "2002",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "białostocki",
+        "nameUc": "BIAŁOSTOCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2003": {
+        "teryt": "2003",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bielski",
+        "nameUc": "BIELSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2004": {
+        "teryt": "2004",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "grajewski",
+        "nameUc": "GRAJEWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2005": {
+        "teryt": "2005",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "hajnowski",
+        "nameUc": "HAJNOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2006": {
+        "teryt": "2006",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kolneński",
+        "nameUc": "KOLNEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2007": {
+        "teryt": "2007",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "łomżyński",
+        "nameUc": "ŁOMŻYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2008": {
+        "teryt": "2008",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "moniecki",
+        "nameUc": "MONIECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2009": {
+        "teryt": "2009",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sejneński",
+        "nameUc": "SEJNEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2010": {
+        "teryt": "2010",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "siemiatycki",
+        "nameUc": "SIEMIATYCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2011": {
+        "teryt": "2011",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sokólski",
+        "nameUc": "SOKÓLSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2012": {
+        "teryt": "2012",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "suwalski",
+        "nameUc": "SUWALSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2013": {
+        "teryt": "2013",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wysokomazowiecki",
+        "nameUc": "WYSOKOMAZOWIECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2014": {
+        "teryt": "2014",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "zambrowski",
+        "nameUc": "ZAMBROWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2061": {
+        "teryt": "2061",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Białystok",
+        "nameUc": "BIAŁYSTOK",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2062": {
+        "teryt": "2062",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Łomża",
+        "nameUc": "ŁOMŻA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2063": {
+        "teryt": "2063",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Suwałki",
+        "nameUc": "SUWAŁKI",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "20",
+            "name": "podlaskie"
+        }
+    },
+    "2201": {
+        "teryt": "2201",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bytowski",
+        "nameUc": "BYTOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2202": {
+        "teryt": "2202",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "chojnicki",
+        "nameUc": "CHOJNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2203": {
+        "teryt": "2203",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "człuchowski",
+        "nameUc": "CZŁUCHOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2204": {
+        "teryt": "2204",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "gdański",
+        "nameUc": "GDAŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2205": {
+        "teryt": "2205",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kartuski",
+        "nameUc": "KARTUSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2206": {
+        "teryt": "2206",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kościerski",
+        "nameUc": "KOŚCIERSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2207": {
+        "teryt": "2207",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kwidzyński",
+        "nameUc": "KWIDZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2208": {
+        "teryt": "2208",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lęborski",
+        "nameUc": "LĘBORSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2209": {
+        "teryt": "2209",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "malborski",
+        "nameUc": "MALBORSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2210": {
+        "teryt": "2210",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "nowodworski",
+        "nameUc": "NOWODWORSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2211": {
+        "teryt": "2211",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "pucki",
+        "nameUc": "PUCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2212": {
+        "teryt": "2212",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "słupski",
+        "nameUc": "SŁUPSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2213": {
+        "teryt": "2213",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "starogardzki",
+        "nameUc": "STAROGARDZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2214": {
+        "teryt": "2214",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "tczewski",
+        "nameUc": "TCZEWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2215": {
+        "teryt": "2215",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wejherowski",
+        "nameUc": "WEJHEROWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2216": {
+        "teryt": "2216",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sztumski",
+        "nameUc": "SZTUMSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2261": {
+        "teryt": "2261",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Gdańsk",
+        "nameUc": "GDAŃSK",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2262": {
+        "teryt": "2262",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Gdynia",
+        "nameUc": "GDYNIA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2263": {
+        "teryt": "2263",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Słupsk",
+        "nameUc": "SŁUPSK",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2264": {
+        "teryt": "2264",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Sopot",
+        "nameUc": "SOPOT",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "22",
+            "name": "pomorskie"
+        }
+    },
+    "2401": {
+        "teryt": "2401",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "będziński",
+        "nameUc": "BĘDZIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2402": {
+        "teryt": "2402",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bielski",
+        "nameUc": "BIELSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2403": {
+        "teryt": "2403",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "cieszyński",
+        "nameUc": "CIESZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2404": {
+        "teryt": "2404",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "częstochowski",
+        "nameUc": "CZĘSTOCHOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2405": {
+        "teryt": "2405",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "gliwicki",
+        "nameUc": "GLIWICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2406": {
+        "teryt": "2406",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kłobucki",
+        "nameUc": "KŁOBUCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2407": {
+        "teryt": "2407",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lubliniecki",
+        "nameUc": "LUBLINIECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2408": {
+        "teryt": "2408",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "mikołowski",
+        "nameUc": "MIKOŁOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2409": {
+        "teryt": "2409",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "myszkowski",
+        "nameUc": "MYSZKOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2410": {
+        "teryt": "2410",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "pszczyński",
+        "nameUc": "PSZCZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2411": {
+        "teryt": "2411",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "raciborski",
+        "nameUc": "RACIBORSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2412": {
+        "teryt": "2412",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "rybnicki",
+        "nameUc": "RYBNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2413": {
+        "teryt": "2413",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "tarnogórski",
+        "nameUc": "TARNOGÓRSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2414": {
+        "teryt": "2414",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bieruńsko-lędziński",
+        "nameUc": "BIERUŃSKO-LĘDZIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2415": {
+        "teryt": "2415",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wodzisławski",
+        "nameUc": "WODZISŁAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2416": {
+        "teryt": "2416",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "zawierciański",
+        "nameUc": "ZAWIERCIAŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2417": {
+        "teryt": "2417",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "żywiecki",
+        "nameUc": "ŻYWIECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2461": {
+        "teryt": "2461",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Bielsko-Biała",
+        "nameUc": "BIELSKO-BIAŁA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2462": {
+        "teryt": "2462",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Bytom",
+        "nameUc": "BYTOM",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2463": {
+        "teryt": "2463",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Chorzów",
+        "nameUc": "CHORZÓW",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2464": {
+        "teryt": "2464",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Częstochowa",
+        "nameUc": "CZĘSTOCHOWA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2465": {
+        "teryt": "2465",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Dąbrowa Górnicza",
+        "nameUc": "DĄBROWA GÓRNICZA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2466": {
+        "teryt": "2466",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Gliwice",
+        "nameUc": "GLIWICE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2467": {
+        "teryt": "2467",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Jastrzębie-Zdrój",
+        "nameUc": "JASTRZĘBIE-ZDRÓJ",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2468": {
+        "teryt": "2468",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Jaworzno",
+        "nameUc": "JAWORZNO",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2469": {
+        "teryt": "2469",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Katowice",
+        "nameUc": "KATOWICE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2470": {
+        "teryt": "2470",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Mysłowice",
+        "nameUc": "MYSŁOWICE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2471": {
+        "teryt": "2471",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Piekary Śląskie",
+        "nameUc": "PIEKARY ŚLĄSKIE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2472": {
+        "teryt": "2472",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Ruda Śląska",
+        "nameUc": "RUDA ŚLĄSKA",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2473": {
+        "teryt": "2473",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Rybnik",
+        "nameUc": "RYBNIK",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2474": {
+        "teryt": "2474",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Siemianowice Śląskie",
+        "nameUc": "SIEMIANOWICE ŚLĄSKIE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2475": {
+        "teryt": "2475",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Sosnowiec",
+        "nameUc": "SOSNOWIEC",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2476": {
+        "teryt": "2476",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Świętochłowice",
+        "nameUc": "ŚWIĘTOCHŁOWICE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2477": {
+        "teryt": "2477",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Tychy",
+        "nameUc": "TYCHY",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2478": {
+        "teryt": "2478",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Zabrze",
+        "nameUc": "ZABRZE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2479": {
+        "teryt": "2479",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Żory",
+        "nameUc": "ŻORY",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "24",
+            "name": "śląskie"
+        }
+    },
+    "2601": {
+        "teryt": "2601",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "buski",
+        "nameUc": "BUSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2602": {
+        "teryt": "2602",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "jędrzejowski",
+        "nameUc": "JĘDRZEJOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2603": {
+        "teryt": "2603",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kazimierski",
+        "nameUc": "KAZIMIERSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2604": {
+        "teryt": "2604",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kielecki",
+        "nameUc": "KIELECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2605": {
+        "teryt": "2605",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "konecki",
+        "nameUc": "KONECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2606": {
+        "teryt": "2606",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "opatowski",
+        "nameUc": "OPATOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2607": {
+        "teryt": "2607",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "ostrowiecki",
+        "nameUc": "OSTROWIECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2608": {
+        "teryt": "2608",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "pińczowski",
+        "nameUc": "PIŃCZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2609": {
+        "teryt": "2609",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sandomierski",
+        "nameUc": "SANDOMIERSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2610": {
+        "teryt": "2610",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "skarżyski",
+        "nameUc": "SKARŻYSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2611": {
+        "teryt": "2611",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "starachowicki",
+        "nameUc": "STARACHOWICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2612": {
+        "teryt": "2612",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "staszowski",
+        "nameUc": "STASZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2613": {
+        "teryt": "2613",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "włoszczowski",
+        "nameUc": "WŁOSZCZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2661": {
+        "teryt": "2661",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Kielce",
+        "nameUc": "KIELCE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "26",
+            "name": "świętokrzyskie"
+        }
+    },
+    "2801": {
+        "teryt": "2801",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "bartoszycki",
+        "nameUc": "BARTOSZYCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2802": {
+        "teryt": "2802",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "braniewski",
+        "nameUc": "BRANIEWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2803": {
+        "teryt": "2803",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "działdowski",
+        "nameUc": "DZIAŁDOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2804": {
+        "teryt": "2804",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "elbląski",
+        "nameUc": "ELBLĄSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2805": {
+        "teryt": "2805",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "ełcki",
+        "nameUc": "EŁCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2806": {
+        "teryt": "2806",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "giżycki",
+        "nameUc": "GIŻYCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2807": {
+        "teryt": "2807",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "iławski",
+        "nameUc": "IŁAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2808": {
+        "teryt": "2808",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kętrzyński",
+        "nameUc": "KĘTRZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2809": {
+        "teryt": "2809",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "lidzbarski",
+        "nameUc": "LIDZBARSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2810": {
+        "teryt": "2810",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "mrągowski",
+        "nameUc": "MRĄGOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2811": {
+        "teryt": "2811",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "nidzicki",
+        "nameUc": "NIDZICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2812": {
+        "teryt": "2812",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "nowomiejski",
+        "nameUc": "NOWOMIEJSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2813": {
+        "teryt": "2813",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "olecki",
+        "nameUc": "OLECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2814": {
+        "teryt": "2814",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "olsztyński",
+        "nameUc": "OLSZTYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2815": {
+        "teryt": "2815",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "ostródzki",
+        "nameUc": "OSTRÓDZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2816": {
+        "teryt": "2816",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "piski",
+        "nameUc": "PISKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2817": {
+        "teryt": "2817",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "szczycieński",
+        "nameUc": "SZCZYCIEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2818": {
+        "teryt": "2818",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "gołdapski",
+        "nameUc": "GOŁDAPSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2819": {
+        "teryt": "2819",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "węgorzewski",
+        "nameUc": "WĘGORZEWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2861": {
+        "teryt": "2861",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Elbląg",
+        "nameUc": "ELBLĄG",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "2862": {
+        "teryt": "2862",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Olsztyn",
+        "nameUc": "OLSZTYN",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "28",
+            "name": "warmińsko-mazurskie"
+        }
+    },
+    "3001": {
+        "teryt": "3001",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "chodzieski",
+        "nameUc": "CHODZIESKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3002": {
+        "teryt": "3002",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "czarnkowsko-trzcianecki",
+        "nameUc": "CZARNKOWSKO-TRZCIANECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3003": {
+        "teryt": "3003",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "gnieźnieński",
+        "nameUc": "GNIEŹNIEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3004": {
+        "teryt": "3004",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "gostyński",
+        "nameUc": "GOSTYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3005": {
+        "teryt": "3005",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "grodziski",
+        "nameUc": "GRODZISKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3006": {
+        "teryt": "3006",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "jarociński",
+        "nameUc": "JAROCIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3007": {
+        "teryt": "3007",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kaliski",
+        "nameUc": "KALISKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3008": {
+        "teryt": "3008",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kępiński",
+        "nameUc": "KĘPIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3009": {
+        "teryt": "3009",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kolski",
+        "nameUc": "KOLSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3010": {
+        "teryt": "3010",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "koniński",
+        "nameUc": "KONIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3011": {
+        "teryt": "3011",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kościański",
+        "nameUc": "KOŚCIAŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3012": {
+        "teryt": "3012",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "krotoszyński",
+        "nameUc": "KROTOSZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3013": {
+        "teryt": "3013",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "leszczyński",
+        "nameUc": "LESZCZYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3014": {
+        "teryt": "3014",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "międzychodzki",
+        "nameUc": "MIĘDZYCHODZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3015": {
+        "teryt": "3015",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "nowotomyski",
+        "nameUc": "NOWOTOMYSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3016": {
+        "teryt": "3016",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "obornicki",
+        "nameUc": "OBORNICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3017": {
+        "teryt": "3017",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "ostrowski",
+        "nameUc": "OSTROWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3018": {
+        "teryt": "3018",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "ostrzeszowski",
+        "nameUc": "OSTRZESZOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3019": {
+        "teryt": "3019",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "pilski",
+        "nameUc": "PILSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3020": {
+        "teryt": "3020",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "pleszewski",
+        "nameUc": "PLESZEWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3021": {
+        "teryt": "3021",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "poznański",
+        "nameUc": "POZNAŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3022": {
+        "teryt": "3022",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "rawicki",
+        "nameUc": "RAWICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3023": {
+        "teryt": "3023",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "słupecki",
+        "nameUc": "SŁUPECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3024": {
+        "teryt": "3024",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "szamotulski",
+        "nameUc": "SZAMOTULSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3025": {
+        "teryt": "3025",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "średzki",
+        "nameUc": "ŚREDZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3026": {
+        "teryt": "3026",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "śremski",
+        "nameUc": "ŚREMSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3027": {
+        "teryt": "3027",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "turecki",
+        "nameUc": "TURECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3028": {
+        "teryt": "3028",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wągrowiecki",
+        "nameUc": "WĄGROWIECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3029": {
+        "teryt": "3029",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wolsztyński",
+        "nameUc": "WOLSZTYŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3030": {
+        "teryt": "3030",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wrzesiński",
+        "nameUc": "WRZESIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3031": {
+        "teryt": "3031",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "złotowski",
+        "nameUc": "ZŁOTOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3061": {
+        "teryt": "3061",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Kalisz",
+        "nameUc": "KALISZ",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3062": {
+        "teryt": "3062",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Konin",
+        "nameUc": "KONIN",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3063": {
+        "teryt": "3063",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Leszno",
+        "nameUc": "LESZNO",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3064": {
+        "teryt": "3064",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Poznań",
+        "nameUc": "POZNAŃ",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "30",
+            "name": "wielkopolskie"
+        }
+    },
+    "3201": {
+        "teryt": "3201",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "białogardzki",
+        "nameUc": "BIAŁOGARDZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3202": {
+        "teryt": "3202",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "choszczeński",
+        "nameUc": "CHOSZCZEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3203": {
+        "teryt": "3203",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "drawski",
+        "nameUc": "DRAWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3204": {
+        "teryt": "3204",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "goleniowski",
+        "nameUc": "GOLENIOWSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3205": {
+        "teryt": "3205",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "gryficki",
+        "nameUc": "GRYFICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3206": {
+        "teryt": "3206",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "gryfiński",
+        "nameUc": "GRYFIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3207": {
+        "teryt": "3207",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kamieński",
+        "nameUc": "KAMIEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3208": {
+        "teryt": "3208",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "kołobrzeski",
+        "nameUc": "KOŁOBRZESKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3209": {
+        "teryt": "3209",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "koszaliński",
+        "nameUc": "KOSZALIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3210": {
+        "teryt": "3210",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "myśliborski",
+        "nameUc": "MYŚLIBORSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3211": {
+        "teryt": "3211",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "policki",
+        "nameUc": "POLICKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3212": {
+        "teryt": "3212",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "pyrzycki",
+        "nameUc": "PYRZYCKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3213": {
+        "teryt": "3213",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "sławieński",
+        "nameUc": "SŁAWIEŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3214": {
+        "teryt": "3214",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "stargardzki",
+        "nameUc": "STARGARDZKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3215": {
+        "teryt": "3215",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "szczecinecki",
+        "nameUc": "SZCZECINECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3216": {
+        "teryt": "3216",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "świdwiński",
+        "nameUc": "ŚWIDWIŃSKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3217": {
+        "teryt": "3217",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "wałecki",
+        "nameUc": "WAŁECKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3218": {
+        "teryt": "3218",
+        "type": "std",
+        "typeOriginal": "powiat",
+        "name": "łobeski",
+        "nameUc": "ŁOBESKI",
+        "suffix": "",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3261": {
+        "teryt": "3261",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Koszalin",
+        "nameUc": "KOSZALIN",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3262": {
+        "teryt": "3262",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Szczecin",
+        "nameUc": "SZCZECIN",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    },
+    "3263": {
+        "teryt": "3263",
+        "type": "city",
+        "typeOriginal": "miasto na prawach powiatu",
+        "name": "Świnoujście",
+        "nameUc": "ŚWINOUJŚCIE",
+        "suffix": "mnpp.",
+        "voivodeship": {
+            "teryt": "32",
+            "name": "zachodniopomorskie"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "02": {
+        "teryt": "02",
+        "name": "dolnośląskie",
+        "nameUc": "DOLNOŚLĄSKIE"
+    },
+    "04": {
+        "teryt": "04",
+        "name": "kujawsko-pomorskie",
+        "nameUc": "KUJAWSKO-POMORSKIE"
+    },
+    "06": {
+        "teryt": "06",
+        "name": "lubelskie",
+        "nameUc": "LUBELSKIE"
+    },
+    "08": {
+        "teryt": "08",
+        "name": "lubuskie",
+        "nameUc": "LUBUSKIE"
+    },
+    "10": {
+        "teryt": "10",
+        "name": "łódzkie",
+        "nameUc": "ŁÓDZKIE"
+    },
+    "12": {
+        "teryt": "12",
+        "name": "małopolskie",
+        "nameUc": "MAŁOPOLSKIE"
+    },
+    "14": {
+        "teryt": "14",
+        "name": "mazowieckie",
+        "nameUc": "MAZOWIECKIE"
+    },
+    "16": {
+        "teryt": "16",
+        "name": "opolskie",
+        "nameUc": "OPOLSKIE"
+    },
+    "18": {
+        "teryt": "18",
+        "name": "podkarpackie",
+        "nameUc": "PODKARPACKIE"
+    },
+    "20": {
+        "teryt": "20",
+        "name": "podlaskie",
+        "nameUc": "PODLASKIE"
+    },
+    "22": {
+        "teryt": "22",
+        "name": "pomorskie",
+        "nameUc": "POMORSKIE"
+    },
+    "24": {
+        "teryt": "24",
+        "name": "śląskie",
+        "nameUc": "ŚLĄSKIE"
+    },
+    "26": {
+        "teryt": "26",
+        "name": "świętokrzyskie",
+        "nameUc": "ŚWIĘTOKRZYSKIE"
+    },
+    "28": {
+        "teryt": "28",
+        "name": "warmińsko-mazurskie",
+        "nameUc": "WARMIŃSKO-MAZURSKIE"
+    },
+    "30": {
+        "teryt": "30",
+        "name": "wielkopolskie",
+        "nameUc": "WIELKOPOLSKIE"
+    },
+    "32": {
+        "teryt": "32",
+        "name": "zachodniopomorskie",
+        "nameUc": "ZACHODNIOPOMORSKIE"
+    }
+}
