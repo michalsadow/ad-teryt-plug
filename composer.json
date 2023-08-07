@@ -5,11 +5,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/przeslijmi/silogger"
+            "url": "https://github.com/michalsadow/silogger"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/przeslijmi/sexceptions"
+            "url": "https://github.com/michalsadow/sexceptions"
         }
     ],
     "require": {
